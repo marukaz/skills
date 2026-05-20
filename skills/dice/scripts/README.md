@@ -1,0 +1,1 @@
+dice.sh outputs an integer from 0 to 5.
